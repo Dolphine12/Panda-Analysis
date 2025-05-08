@@ -77,7 +77,7 @@ Each chart includes appropriate:
 
 ## 📁 Files Included
 
-- `analysis.py`: Python File
+- `Sales.py`: Python File
 - `Walmart_Sales.csv`: Cleaned dataset
 - `README.md`: This file
 
