@@ -16,9 +16,9 @@ This project involves the exploration and analysis of a sales dataset using Pyth
 
 ## 🧹 Data Cleaning
 
-- Loaded the dataset using `pandas.read_csv()`
-- Inspected the data with `.head()` and `.info()`
-- Checked for missing values using `.isnull().sum()`
+- I Loaded the dataset using `pandas.read_csv()`
+- Then Inspected the data with `.head()` and `.info()`
+- I Checked for missing values using `.isnull().sum()`
 - Handled missing data by:
   - Dropping rows with critical missing values
   - Filling in minor missing values with appropriate strategies (e.g., using `.fillna()` with mean or forward fill)
